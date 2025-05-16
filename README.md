@@ -1,3 +1,3 @@
 # Trends in cold extremes
 
-Repository for BEE 5850 term project (sprint/2025).
+Repository for BEE 5850 term project (spring/2025).
